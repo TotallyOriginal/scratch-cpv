@@ -5,11 +5,10 @@
 	<meta charset="utf-8">
 	<script src="sendtocloud.js"></script>
 </head>
-<body>
+<body style="background-color: #111111; color: white">
 	<div id="wrapper">
 		<div id="container">
 			<h1>Cross-project Variables</h1>
-			<hr style="margin-top: -50px; margin-bottom:30px;">
 			<div style="font-size: 15pt; text-align:center; width:75%; margin: 20px auto;">With cloud variables and pure JavaScript, you can transfer values from variables between Scratch projects safely.</div>
 			<center>
 				<div style="display: block; margin: 0 auto;">
